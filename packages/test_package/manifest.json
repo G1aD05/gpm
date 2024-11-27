@@ -1,0 +1,12 @@
+{
+  "name": "test_package",
+  "version": "1.0.0",
+  "dependencies": {
+    "gpm-packages": {
+      "test_package_2": "1.0.0"
+    },
+    "python-packages": {
+      "numpy": "1.0.0"
+    }
+  }
+}

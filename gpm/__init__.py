@@ -1,2 +1,2 @@
-import machinery
-import main
+from . import machinery
+from .machinery import install
