@@ -2,5 +2,4 @@
 .venv
 .DS_Store
 main.py
-test_package
 __pycache__
