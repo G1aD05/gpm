@@ -5,8 +5,8 @@
     "gpm-packages": {
       "test_package_2": "1.0.0"
     },
-    "python-packages": {
-      "numpy": "1.0.0"
-    }
+    "python-packages": [
+      "numpy"
+    ]
   }
 }
